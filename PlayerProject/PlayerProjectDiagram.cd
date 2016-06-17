@@ -3,7 +3,7 @@
   <Class Name="PlayerProject.GameObject">
     <Position X="0.75" Y="1.75" Width="2" />
     <TypeIdentifier>
-      <HashCode>ABAAIAAAACASAAAgACAAAQQBAIEAAEEKRAAIggAAAEA=</HashCode>
+      <HashCode>ABAAIAEAACASAAAgACAAAQQBAIEAAEEKRAAIggAAAEA=</HashCode>
       <FileName>GameObject.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -19,8 +19,8 @@
     <Position X="3.5" Y="4.75" Width="2" />
     <InheritanceLine Type="PlayerProject.GameObject" ManuallyRouted="true" FixedFromPoint="true">
       <Path>
-        <Point X="2.75" Y="7.057" />
-        <Point X="3.5" Y="7.057" />
+        <Point X="2.75" Y="7.225" />
+        <Point X="3.5" Y="7.225" />
       </Path>
     </InheritanceLine>
     <TypeIdentifier>
